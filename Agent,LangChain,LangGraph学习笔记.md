@@ -79,6 +79,7 @@
 - 官方教程：[How to create a custom chat model class](https://python.langchain.com/docs/how_to/custom_chat_model/)
 
 - 官方文档：[language_models](https://python.langchain.com/api_reference/core/language_models.html)
+- 稳定大模型输出格式：[利用Prediction Guard在LangChain中保护你的模型输出](https://blog.csdn.net/bhawfgrcbtwny/article/details/142350243)
 
 ## 五、VLLM, 通义千问等
 
