@@ -29,7 +29,7 @@
 
 ​	中文字幕：[(超爽中英!) 2024公认最好的【吴恩达LangChain+RAG】教程！更适合中国宝宝体质，全程干货无废话，学完成为AGI大佬！（附课件+代码）](https://www.bilibili.com/video/BV1TJ4zemETf/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
-​	官方代码：[jupyter_notebook](https://s172-29-2-164p8888.lab-aws-production.deeplearning.ai/tree)
+​	官方代码：在官方视频侧栏的Jupyter NoteBook中点击File->Open
 
 ### 2. LangChian进阶
 
@@ -44,7 +44,7 @@
 
 ​	中文字幕：[吴恩达《使用LangChain的函数、工具和代理》|Functions, Tools and Agents with LangChain（GPT4-中英字幕）]( https://www.bilibili.com/video/BV1oG411k7HU/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
-​	官方代码：[jupyter_notebook](https://s172-29-5-190p8888.lab-aws-production.deeplearning.ai/tree)
+​	官方代码：在官方视频侧栏的Jupyter NoteBook中点击File->Open
 
 ## 三、LangGraph
 
@@ -62,7 +62,7 @@
 
 ​	中文字幕：[吴恩达&langchain《用LangGraph搭建智能体|AI Agents in LangGraph》【短课英字可关】](https://www.bilibili.com/video/BV1bi421v7oD/?p=3&share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
-​	官方代码：[jupyter_notebook](https://s172-29-57-123p8888.lab-aws-production.deeplearning.ai/tree)
+​	官方代码：在官方视频旁边的Jupyter NoteBook中点击File->Open
 
 ## 四、LangChain,LangGraph结合本地LLM
 
@@ -99,7 +99,7 @@
 
 中文字幕：[吴恩达《多模态RAG：与视频对话|Multimodal RAG: Chat with Videos》中英字幕（豆包](https://www.bilibili.com/video/BV1mUtTehEsy/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
-官方代码：[jupyter_notebook](https://s172-29-24-60p8888.lab-aws-production.deeplearning.ai/tree)
+官方代码：在官方视频侧栏的Jupyter NoteBook中点击File->Open
 
 ## 七、LLMs,RLHF
 
