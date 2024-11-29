@@ -85,6 +85,8 @@
 
 官方社区文档（通义千问、VLLM，API使用）：[qwen chat model API使用](https://python.langchain.com/api_reference/community/chat_models/langchain_community.chat_models.tongyi.ChatTongyi.html#langchain_community.chat_models.tongyi.ChatTongyi)，[llms.vllm.VLLM](https://python.langchain.com/api_reference/community/llms/langchain_community.llms.vllm.VLLM.html)，[qwen llms API 使用](https://python.langchain.com/api_reference/community/llms/langchain_community.llms.tongyi.Tongyi.html#langchain_community.llms.tongyi.Tongyi)
 
+Agent: [Qwen2-VL-Agent(Function Calling&Tool Calling)](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file#function-calling),[[the function calling example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_function_calling.py),[[the agent example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_assistant_tooluse.py)
+
 ## 六、RAG,MultiModal
 
 ### Chat with Videos: 
@@ -132,7 +134,6 @@
 - [Qwen2-VL源码](https://github.com/huggingface/transformers/tree/main/src/transformers/models/qwen2_vl)
 - [Qwen2源码](https://github.com/huggingface/transformers/tree/main/src/transformers/models/qwen2)
 - [llama源码](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama)
-- [Qwen2-VL-Agent(Function Calling&Tool Calling)](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file#function-calling),[[the function calling example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_function_calling.py),[[the agent example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_assistant_tooluse.py)
 
 ## 九、其他学习资源
 
