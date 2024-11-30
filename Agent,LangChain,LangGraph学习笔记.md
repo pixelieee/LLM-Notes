@@ -87,6 +87,8 @@
 
 Agent: [Qwen2-VL-Agent(Function Calling&Tool Calling)](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file#function-calling),[[the function calling example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_function_calling.py),[[the agent example]](https://github.com/QwenLM/Qwen-Agent/blob/main/examples/qwen2vl_assistant_tooluse.py)
 
+qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+
 ## 六、RAG,MultiModal
 
 ### Chat with Videos: 
