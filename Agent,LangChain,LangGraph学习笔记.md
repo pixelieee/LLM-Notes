@@ -1,6 +1,6 @@
 # Agent,LangChain,LangGraph,LLM学习资源整理
 
-## 一、手写Agent
+## 手写Agent
 
 ### 1. 通义千问实现模块化Agent
 
@@ -14,7 +14,7 @@
 
 ​	代码：[agent](https://github.com/owenliang/agent)
 
-## 二、LangChain
+## LangChain
 
 ### 1. LangChain入门
 
@@ -46,7 +46,7 @@
 
 ​	官方代码：在官方视频侧栏的Jupyter NoteBook中点击File->Open
 
-## 三、LangGraph
+## LangGraph
 
 ### 1. LangGraph更快速构建多智能体
 
@@ -64,24 +64,30 @@
 
 ​	官方代码：在官方视频旁边的Jupyter NoteBook中点击File->Open
 
-## 四、LangChain,LangGraph结合本地LLM
+## LangChain,LangGraph结合本地LLM（自定义方法）
 
 - [一起学大模型-动手写一写LangChain调用本地大模型（1）](https://blog.csdn.net/kljyrx/article/details/139361629?fromshare=blogdetail&sharetype=blogdetail&sharerId=139361629&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
-
 - [一起学大模型-动手写一写LangChain调用本地大模型（2）](https://blog.csdn.net/kljyrx/article/details/139362030?fromshare=blogdetail&sharetype=blogdetail&sharerId=139362030&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
-
 - [【教程】LLM集成进LangChain工具，并实现本地知识库的问答](https://blog.csdn.net/qq_36187610/article/details/131900517?fromshare=blogdetail&sharetype=blogdetail&sharerId=131900517&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
-
 - [langchain加载本地中文模型的4种方法](https://blog.csdn.net/2401_85373691/article/details/141824975?fromshare=blogdetail&sharetype=blogdetail&sharerId=141824975&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
-
 - 官方教程：[How to create a custom LLM class](https://python.langchain.com/docs/how_to/custom_llm/)
-
 - 官方教程：[How to create a custom chat model class](https://python.langchain.com/docs/how_to/custom_chat_model/)
-
 - 官方文档：[language_models](https://python.langchain.com/api_reference/core/language_models.html)
 - 稳定大模型输出格式：[利用Prediction Guard在LangChain中保护你的模型输出](https://blog.csdn.net/bhawfgrcbtwny/article/details/142350243)
 
-## 五、VLLM, 通义千问等
+## QwenAgent,LangChain,LangGraph结合本地LLM (部署方法)
+
+- qwen_agent与本地部署的qwen如何适配(ollama或vllm部署)：[QwenLM/Qwen-Agent/issue94](https://github.com/QwenLM/Qwen-Agent/issues/94),[QwenLM/Qwen-Agent/issue95](https://github.com/QwenLM/Qwen-Agent/issues/95)
+- dashscope与OpenAI接口兼容：[OpenAI Chat 接口兼容](https://help.aliyun.com/zh/dashscope/developer-reference/compatibility-of-openai-with-dashscope)
+- ollama支持langchain_openai.ChatOpenAI接口：[ollama与ChatOpenAI接口](https://blog.csdn.net/qq_40582088/article/details/140605223?fromshare=blogdetail&sharetype=blogdetail&sharerId=140605223&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
+- ollama部署llama3.2，结合openai接口：[ollama llama3.2](https://blog.csdn.net/qq_39749966/article/details/136594143?fromshare=blogdetail&sharetype=blogdetail&sharerId=136594143&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
+- FASTAPI部署Qwen-VL-Chat：[qwen-vl-chat FASTAPI](https://blog.csdn.net/liukangjie520/article/details/140270326?fromshare=blogdetail&sharetype=blogdetail&sharerId=140270326&sharerefer=PC&sharesource=Pure12321&sharefrom=from_link)
+- Qwen2-VL vllm部署：[Qwen2-VL Deployment](https://github.com/QwenLM/Qwen2-VL?tab=readme-ov-file#deployment) (ollama不支持Qwen2-VL。注意vllm=0.6.1, transformer=4.45.0, 文中的pip install git+https://github.com/huggingface/transformers@21fac7abba2a37fae86106f87fcf9974fd1e3830 改为：pip install git+https://github.com/huggingface/transformers@21fac7abba2a37fae86106f87fcf9974fd1e3830  accelerate)
+- langchain中 create_openai_tools_agent或create_openai_functions_agent与qwen模型不支持的问题：[qwen langchain](https://github.com/QwenLM/Qwen2.5/issues/15)
+- 本地部署的LLM的function调用：几乎所有的开源推理框架(vllm,SGLang,ollama,llama.cpp等)中都没有实现函数调用[issue](https://github.com/QwenLM/Qwen2.5/issues/474#issuecomment-2148834159)
+- 如何用vllm对qwen2-vl-72b进行推理？[link](https://github.com/QwenLM/Qwen2-VL/issues/518)
+
+## VLLM, 通义千问等
 
 官方社区文档（通义千问、VLLM，API使用）：[qwen chat model API使用](https://python.langchain.com/api_reference/community/chat_models/langchain_community.chat_models.tongyi.ChatTongyi.html#langchain_community.chat_models.tongyi.ChatTongyi)，[llms.vllm.VLLM](https://python.langchain.com/api_reference/community/llms/langchain_community.llms.vllm.VLLM.html)，[qwen llms API 使用](https://python.langchain.com/api_reference/community/llms/langchain_community.llms.tongyi.Tongyi.html#langchain_community.llms.tongyi.Tongyi)
 
@@ -89,7 +95,19 @@ Agent: [Qwen2-VL-Agent(Function Calling&Tool Calling)](https://github.com/QwenLM
 
 qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
-## 六、RAG,MultiModal
+## Qwen_Agent相关
+
+- 用户描述不能调用对应的function[link](https://github.com/QwenLM/Qwen-Agent/issues/346)
+- 无法自动选择tool [link](https://github.com/QwenLM/Qwen-Agent/issues/344vllm)
+- 不用GUI的Group Agent demo [link](https://github.com/QwenLM/Qwen-Agent/issues/342)
+- function_call调用问题 [link](https://github.com/QwenLM/Qwen-Agent/issues/339)
+- function_call重试次数限制 [link](https://github.com/QwenLM/Qwen-Agent/issues/33)
+- vllm部署的qwen2vl qwen2vl_function_calling.py报错 [link](https://github.com/QwenLM/Qwen-Agent/issues/336)
+- 如何自己添加工具 [link](https://github.com/QwenLM/Qwen-Agent/issues/5)
+- qwen2 vl agent vllm不支持视频输入 [link](https://github.com/QwenLM/Qwen2-VL/issues/113)
+- qwen2 vl 目前不支持ollama部署 [link](https://github.com/QwenLM/Qwen2-VL/issues/7)
+
+## RAG,MultiModal
 
 ### Chat with Videos: 
 
@@ -106,7 +124,7 @@ qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
 官方代码：在官方视频侧栏的Jupyter NoteBook中点击File->Open
 
-## 七、LLMs,RLHF
+## LLMs,RLHF
 
 ### 1. 大模型预训练
 
@@ -127,7 +145,7 @@ qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 
 - [RLHF训练法从零复现,代码实战,大语言模型训练](https://www.bilibili.com/video/BV13r42177Hk/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27) [[code]](https://github.com/lansinuote/Simple_TRL)
 
-## 八、Qwen源码
+## Qwen源码
 
 - [Qwen源码解析](https://blog.csdn.net/weixin_43214046/article/details/140097346)
 
@@ -137,14 +155,13 @@ qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - [Qwen2源码](https://github.com/huggingface/transformers/tree/main/src/transformers/models/qwen2)
 - [llama源码](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama)
 
-## 九、其他学习资源
+## 其他学习资源
 
 - 官方试验文档：[video_captioning](https://python.langchain.com/api_reference/experimental/video_captioning.html)
-
 - LangGraph官方文档：[LangGraph](https://langchain-ai.github.io/langgraph/reference/)
-
 - LangChain基础教程：[Langchain Tutorials](https://python.langchain.com/docs/tutorials/)
-
 - LangChain实践教程：[How to Tutorials](https://python.langchain.com/docs/how_to/)
-
 - prompt设计：[prompt hub](https://smith.langchain.com/hub)
+- vllm支持模型：[vllm models](https://docs.vllm.ai/en/latest/models/supported_models.html)
+- ollama支持模型：[ollama models](https://ollama.com/)
+- llamacpp 支持模型 [llamacpp models](https://github.com/ggerganov/llama.cpp/tree/master/models)
