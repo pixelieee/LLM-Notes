@@ -86,6 +86,7 @@
 - langchain中 create_openai_tools_agent或create_openai_functions_agent与qwen模型不支持的问题：[qwen langchain](https://github.com/QwenLM/Qwen2.5/issues/15)
 - 本地部署的LLM的function调用：几乎所有的开源推理框架(vllm,SGLang,ollama,llama.cpp等)中都没有实现函数调用[issue](https://github.com/QwenLM/Qwen2.5/issues/474#issuecomment-2148834159)
 - 如何用vllm进行多卡推理？[link](https://github.com/QwenLM/Qwen2-VL/issues/518)
+
   [RuntimeError: Cannot re-initialize CUDA in forked subprocess. To use CUDA with multiprocessing, you must use the 'spawn' start method.](https://github.com/vllm-project/vllm/issues/6152)
 
 ## VLLM, 通义千问等
