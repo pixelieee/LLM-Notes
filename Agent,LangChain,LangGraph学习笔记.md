@@ -109,6 +109,7 @@ qwen_agent源码：[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
 - 如何自己添加工具 [link](https://github.com/QwenLM/Qwen-Agent/issues/5)
 - qwen2 vl agent vllm不支持视频输入 [link](https://github.com/QwenLM/Qwen2-VL/issues/113)
 - qwen2 vl 目前不支持ollama部署 [link](https://github.com/QwenLM/Qwen2-VL/issues/7)
+- qwen2 vl 视觉定位[link](https://github.com/QwenLM/Qwen2-VL/issues/9)
 
 ## RAG,MultiModal
 
