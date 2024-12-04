@@ -88,7 +88,7 @@
 - 如何用vllm进行多卡推理？[link](https://github.com/QwenLM/Qwen2-VL/issues/518)
 
   [RuntimeError: Cannot re-initialize CUDA in forked subprocess. To use CUDA with multiprocessing, you must use the 'spawn' start method.](https://github.com/vllm-project/vllm/issues/6152)
-- 如何使用vllm+qwen2VL进行多图和视频处理 [Multi image input](https://docs.vllm.ai/en/stable/models/vlm.html#multi-image-input)
+- 如何使用vllm+qwen2VL进行多图和视频处理 [Multi image input](https://docs.vllm.ai/en/stable/models/vlm.html#multi-image-input) [link](https://www.cnblogs.com/jerryqm/p/17831026.html)
 
 ## VLLM, 通义千问等
 
