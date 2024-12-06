@@ -10,3 +10,4 @@ LLM学习笔记，技术栈等
 - [ ] 思考RAG策略
 - [ ] 阅读qwen2vl, videollm, llama 源码，编写vadllm demo
 - [ ] 部署videochat,video-llama,video-llava
+- [ ] 整理2nd work的指标计算思路，思考框架和动机
