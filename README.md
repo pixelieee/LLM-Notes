@@ -10,4 +10,5 @@ LLM学习笔记，技术栈等
 - [ ] 思考RAG策略
 - [ ] 阅读qwen2vl, videollm, llama 源码，编写vadllm demo
 - [ ] 部署videochat,video-llama,video-llava
+- [ ] 阅读ODAS [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Shou_Online_Detection_of_ECCV_2018_paper.pdf) [arXiv](https://arxiv.org/abs/1802.06822v3)
 - [ ] 整理2nd work的指标计算思路，思考框架和动机
