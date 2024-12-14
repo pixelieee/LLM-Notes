@@ -13,4 +13,4 @@ LLM学习笔记，技术栈等
 - [x] ~~阅读ODAS~~ [paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Shou_Online_Detection_of_ECCV_2018_paper.pdf) [arXiv](https://arxiv.org/abs/1802.06822v3)
 - [ ] 整理2nd work的指标计算思路，思考框架和动机
 - [ ] 学习JVM
-- [ ] 修改第一项工作并转头ICCV
+- [ ] 修改第一项工作并转投ICCV
