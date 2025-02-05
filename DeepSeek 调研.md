@@ -16,7 +16,7 @@
 
 [Deepseek R1 复现 - hugging face - Open R1](https://github.com/huggingface/open-r1)
 
-[本地部署Deepseek R1教程](【DeepSeek R1 推理模型 完全本地部署 保姆级教程 断网运行 无惧隐私威胁 大语言模型推理时调参 CPU GPU 混合推理 32B 轻松本地部署】(https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+[本地部署Deepseek R1教程](https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 [DeepSeek R1核心原理讲解 | 在开放语言模型中推动数学推理的极限 (论文解析)](https://www.bilibili.com/video/BV1U6fyY8Egc/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
@@ -40,11 +40,11 @@ MLA复现代码：[code](https://github.com/wyf3/llm_related/tree/main/deepseek_
 
 ## LLM 复现
 
-[从零编写一个大模型 build a nanoGPT from scratch](【LLMs-Zero-to-Hero，完全从零手写大模型，从数据处理到模型训练，细节拉满，一小时学会。 build a nanoGPT from scratch】 https://www.bilibili.com/video/BV1qWwke5E3K/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)  [code](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_gpt.ipynb)
+[从零编写一个大模型 build a nanoGPT from scratch](https://www.bilibili.com/video/BV1qWwke5E3K/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)  [code](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_gpt.ipynb)
 
 Karpathy Andrej 教程：[nanoGPT](https://github.com/karpathy/nanoGPT)  [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
-[动手学习大模型](【【动手学习大模型 1/12】LLM 面试和工作的区别，让我们一起 import transformers，了解大模型的基本使用流程 （有较好基础同学不推荐观看）】 https://www.bilibili.com/video/BV16Am3Y4ES3/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)  [code](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
+[动手学习大模型]( https://www.bilibili.com/video/BV16Am3Y4ES3/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)  [code](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
 
 ## Deepseek MoE
 
