@@ -16,7 +16,7 @@
 
 [Deepseek R1 复现 - hugging face - Open R1](https://github.com/huggingface/open-r1)
 
-[本地部署Deepseek R1教程](【DeepSeek R1 推理模型 完全本地部署 保姆级教程 断网运行 无惧隐私威胁 大语言模型推理时调参 CPU GPU 混合推理 32B 轻松本地部署】 https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+[本地部署Deepseek R1教程](【DeepSeek R1 推理模型 完全本地部署 保姆级教程 断网运行 无惧隐私威胁 大语言模型推理时调参 CPU GPU 混合推理 32B 轻松本地部署】(https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 [DeepSeek R1核心原理讲解 | 在开放语言模型中推动数学推理的极限 (论文解析)](https://www.bilibili.com/video/BV1U6fyY8Egc/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
