@@ -31,9 +31,11 @@
 
 [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 
+[Deepseek R1 Zero成功复现, 三阶段RL，Response长度涨幅超50%，涌现语言混杂，double-check, Verify, Let's Summarize！](https://zhuanlan.zhihu.com/p/21290410831)  [code](https://github.com/Unakar/Logic-RL?tab=readme-ov-file)
+
 [本地部署Deepseek R1教程](https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
-[全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，LeCun直言：这是开源对闭源的胜利！](https://mp.weixin.qq.com/s/G-1iGextTrLxQokgLornBw)
+[全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，LeCun直言：这是开源对闭源的胜利！](https://mp.weixin.qq.com/s/G-1iGextTrLxQokgLornBw)  
 ## Deepseek Math
 
 [有难度但必读的一篇论文《DeepSeekMath》](https://www.bilibili.com/video/BV1qUFMeGE2q/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
@@ -45,6 +47,8 @@
 MLA复现代码：[code](https://github.com/wyf3/llm_related/tree/main/deepseek_learn)
 
 苏剑林博客：[缓存与效果的极限拉扯：从MHA、MQA、GQA到MLA](https://spaces.ac.cn/archives/10091)
+
+[DeepSeek-V2 高性能推理 (1)：通过矩阵吸收十倍提速 MLA 算子](https://zhuanlan.zhihu.com/p/700214123)
 
 ## LLM 复现
 
