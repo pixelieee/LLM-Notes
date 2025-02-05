@@ -1,5 +1,7 @@
 # Deepseek 调研
 
+[DeepSeek的创新三重门](https://mp.weixin.qq.com/s/r5UkZbBz01sldtf7PyzDUA)
+
 ## Deepseek V3
 
 [Deepseek V3 全网最硬核解读一   MTP与专家负载均衡](https://www.bilibili.com/video/BV18zcme1ELC/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
@@ -12,11 +14,8 @@
 
 ## Deepseek R1
 
+### 论文解读：
 [Deepseek R1与kimi1.5 硬核解读](https://www.bilibili.com/video/BV1vsFte8EmN/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
-
-[Deepseek R1 复现 - hugging face - Open R1](https://github.com/huggingface/open-r1)
-
-[本地部署Deepseek R1教程](https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 [DeepSeek R1核心原理讲解 | 在开放语言模型中推动数学推理的极限 (论文解析)](https://www.bilibili.com/video/BV1U6fyY8Egc/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
@@ -25,7 +24,16 @@
 [读R1的训练过程《DeepSeek-R1》论文导读](https://www.bilibili.com/video/BV1EmF9e6EdG/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 [【中字】DeepSeek R1：奶奶也能听懂](https://www.bilibili.com/video/BV12ufWYwEyX/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+### 复现代码：
+[Deepseek R1 复现 - hugging face - Open R1](https://github.com/huggingface/open-r1)
 
+[simpleRL](https://github.com/hkust-nlp/simpleRL-reason)
+
+[TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+
+[本地部署Deepseek R1教程](https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+[全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，LeCun直言：这是开源对闭源的胜利！](https://mp.weixin.qq.com/s/G-1iGextTrLxQokgLornBw)
 ## Deepseek Math
 
 [有难度但必读的一篇论文《DeepSeekMath》](https://www.bilibili.com/video/BV1qUFMeGE2q/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
