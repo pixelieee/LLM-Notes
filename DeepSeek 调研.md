@@ -33,6 +33,10 @@
 
 [Deepseek R1 Zero成功复现, 三阶段RL，Response长度涨幅超50%，涌现语言混杂，double-check, Verify, Let's Summarize！](https://zhuanlan.zhihu.com/p/21290410831)  [code](https://github.com/Unakar/Logic-RL?tab=readme-ov-file)
 
+[练习两天半，从零实现DeepSeek-R1（基于Qwen2.5-0.5B和规则奖励模型，GRPO），从原理讲解到代码实现，解开DeepSeek-R1的神秘面](https://www.bilibili.com/video/BV18uNWeXE1t/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+[上手代码复现DeepSeek-R1强化学习训练演示](https://www.bilibili.com/video/BV1XDPQeeEF7/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
 [本地部署Deepseek R1教程](https://www.bilibili.com/video/BV1NGf2YtE8r/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 [全球掀DeepSeek复现狂潮！硅谷巨头神话崩塌，LeCun直言：这是开源对闭源的胜利！](https://mp.weixin.qq.com/s/G-1iGextTrLxQokgLornBw)  
@@ -43,6 +47,8 @@
 ## Deepseek MLA (Multi-head Latent Attention)
 
 [研究两天半，让你完全搞懂DeepSeek多头潜在注意力机制（MLA）的原理与实现，搭配详细注释的代码，你完全学得会](https://www.bilibili.com/video/BV1wVfGYfEq9/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+[完全从零实现DeepSeek MLA算法(MultiHead Latent Attention)-（无矩阵吸收版），DeepSeek V2/3 的核心组件之一](https://www.bilibili.com/video/BV19aP1epEUc/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 MLA复现代码：[code](https://github.com/wyf3/llm_related/tree/main/deepseek_learn)
 
