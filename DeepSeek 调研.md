@@ -80,6 +80,10 @@ Andrej Karpathy 三小时学习LLM [Deep Dive into LLMs like ChatGPT](https://yo
 
 [练习两天半，完全从零开始训练混合专家模型（MoE），从预训练到SFT全流程代码实现，搭配实例讲解MoE前向传播，绝对让你搞懂混合专家模型](https://www.bilibili.com/video/BV1garHYdEoN/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
+## Deepseek Janus Pro
+
+[DeepSeek杀疯了！发布多模态模型Janus Pro，再次超越OpenAI！](https://www.bilibili.com/video/BV1qEfQYZEAj/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27) [paper](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf)
+
 ## MLLM复现
 
 [练习两周半，使用Qwen2.5-0.5B和SigLIP从零开始训练多模态大模型，从预训练到SFT完整流程，让你真正搞懂多模态大模型](https://www.bilibili.com/video/BV1HTzEYbEv3/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
