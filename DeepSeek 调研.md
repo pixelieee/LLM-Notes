@@ -23,6 +23,8 @@
 
 [读R1的训练过程《DeepSeek-R1》论文导读](https://www.bilibili.com/video/BV1EmF9e6EdG/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
+[练习两分半，使用DeepSeek-R1蒸馏训练自己的本地小模型（Qwen2.5-0.5B），原理流程全讲解，模型数据全给你](https://www.bilibili.com/video/BV1ekN2ebE68/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
 [【中字】DeepSeek R1：奶奶也能听懂](https://www.bilibili.com/video/BV12ufWYwEyX/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 ### 复现代码：
 [Deepseek R1 复现 - hugging face - Open R1](https://github.com/huggingface/open-r1)
