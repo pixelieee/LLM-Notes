@@ -66,6 +66,12 @@ Karpathy Andrej 教程：[nanoGPT](https://github.com/karpathy/nanoGPT)  [Neural
 
 [动手学习大模型]( https://www.bilibili.com/video/BV16Am3Y4ES3/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)  [code](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN)
 
+[练习不到两天半，完全从零开始训练大模型，从训练tokenizer到预训练再到SFT全流程，让你完全搞懂大语言模型](https://www.bilibili.com/video/BV13Ci6YYEUY/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+[手动实现RLHF：MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)
+
+Andrej Karpathy 三小时学习LLM [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=QNk5g7QPKZw1RHLB)
+
 ## Deepseek MoE
 
 [完全从零手写MOE大模型，复现 DeepSeek MOE 算法，彻底 MOE 算法进化之路，build a nano MOE LLM from scratch](https://www.bilibili.com/video/BV1ZbFpeHEYr/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
@@ -73,6 +79,16 @@ Karpathy Andrej 教程：[nanoGPT](https://github.com/karpathy/nanoGPT)  [Neural
 [blog](https://bruceyuan.com/llms-zero-to-hero/the-way-of-moe-model-evolution.html) [code](https://github.com/bbruceyuan/LLMs-Zero-to-Hero/blob/master/src/video/build_moe_model.ipynb)
 
 [练习两天半，完全从零开始训练混合专家模型（MoE），从预训练到SFT全流程代码实现，搭配实例讲解MoE前向传播，绝对让你搞懂混合专家模型](https://www.bilibili.com/video/BV1garHYdEoN/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+## MLLM复现
+
+[练习两周半，使用Qwen2.5-0.5B和SigLIP从零开始训练多模态大模型，从预训练到SFT完整流程，让你真正搞懂多模态大模型](https://www.bilibili.com/video/BV1HTzEYbEv3/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
+
+[MiniGPT4](https://github.com/Vision-CAIR/MiniGPT-4)
+
+## 知识蒸馏
+
+[耗时两天半，完全从零开始实现大模型知识蒸馏（Qwen2.5系列模型），从原理讲解、代码实现到效果测试，绝对让你搞懂模型蒸馏](https://www.bilibili.com/video/BV1kQcoetEFM/?share_source=copy_web&vd_source=903df22429e412249f19f6838f855e27)
 
 ## 推荐博主主页
 
