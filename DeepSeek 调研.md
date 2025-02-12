@@ -106,3 +106,5 @@ Andrej Karpathy 三小时学习LLM [Deep Dive into LLMs like ChatGPT](https://yo
 
 [ZOMI酱](https://space.bilibili.com/517221395)
 
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+
